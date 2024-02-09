@@ -1,0 +1,25 @@
+.raju{
+    color: orange;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.half{
+   width: 40%;
+   margin-left: 5%;
+   float: left;
+   padding: 2%;
+}
+.half img{
+    width: 100%;
+}
+button{
+    border: 1px solid red;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+
+}
