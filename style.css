@@ -45,3 +45,9 @@ section{
     padding: 2%;
     margin-left: 5%;
 }
+.ml{
+    width: 50%;
+    float: left;
+    padding: 50%;
+    margin-right: 3%;
+}
