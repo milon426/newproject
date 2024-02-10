@@ -21,20 +21,22 @@ body{
 .same::before{
     content:"👉🏻";
 }
+p{
+    width: 80%;
+    color: rgb(124, 104, 194);
+}
 .half{
     width: 40%;
     float: left;
     padding: 2%;
     margin-left: 5%;
+
 }
 .half img{
     border: 1px solid red;
     border-radius: 60px;
     width: 70%;
     height: 70%;
-}
-.top{
-    background-image:images/top-banner;
 }
 section{
     height: 500px;
@@ -43,4 +45,18 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.gg{
+    margin-left: 5%;
+}
+.haf{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin-left: 5%;
+}
+.bgg{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
