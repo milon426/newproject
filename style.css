@@ -54,6 +54,9 @@ section{
     float: left;
     padding: 2%;
     margin-left: 5%;
+    border: 1px solid blue;
+    border-radius: 10px;
+    box-shadow: 10px 20px 40px brown;
 }
 .bgg{
     background-image: url(images/exp-bg.png);
